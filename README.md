@@ -14,7 +14,7 @@ This Python package provides a straightforward implementation of the TOPSIS (Tec
 To install the package, use the following command:
 
 ```bash
-pip install topsis-102203148
+pip install 102203148-topsis
 ```
 
 ## Usage
